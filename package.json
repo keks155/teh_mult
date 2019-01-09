@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/keks155/teh_mult/issues"
   },
-  "homepage": "https://github.com/keks155/teh_mult#readme"
+  "homepage": "https://github.com/keks155/teh_mult#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
